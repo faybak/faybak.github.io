@@ -1,1 +1,1 @@
-# Bienvenue dans la page d’assistance de l’application Direct976
+Pour toute question ou suggestion concernant l'application veuillez le reporter dans la partie "issues"
