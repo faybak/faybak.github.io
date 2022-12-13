@@ -1,0 +1,5 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: [Bienvenue dans la page d’assistance de l’application Direct976]
+description: [Vous pourrez nous faire part de vos remarques ainsi que demander une assistance concernant l’application]
