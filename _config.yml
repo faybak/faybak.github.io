@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme
 title: [Bienvenue dans la page d’assistance de l’application Direct976]
 description: [Vous pourrez nous faire part de vos remarques ainsi que demander une assistance concernant l’application]
+url:https://github.com/faybak/faybak.github.io/issues
